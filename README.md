@@ -27,8 +27,8 @@ Before setting up the project, ensure you have the following installed:
 1. **Clone the Repository**:
    Clone the repository to your local machine:
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone https://github.com/MCInversion/ThreeJSOBJLoader_wega.git
+   cd ThreeJSOBJLoader_wega
    ```
 
 2. **Install Project Dependencies**:
