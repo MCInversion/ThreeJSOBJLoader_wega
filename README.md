@@ -1,5 +1,7 @@
 # 3D Scene Viewer with Three.js, OBJLoader, and OrbitControls
 
+[https://github.com/MCInversion/ThreeJSOBJLoader_wega/blob/main/assets/objLoaderExample.jpg](https://github.com/MCInversion/ThreeJSOBJLoader_wega/blob/main/assets/objLoaderExample.jpg)
+
 This project is a 3D scene viewer built with Three.js, utilizing OBJLoader to load 3D models and OrbitControls for interactive navigation. The project is set up with Vite as the development server for faster, module-based builds.
 
 ## Prerequisites

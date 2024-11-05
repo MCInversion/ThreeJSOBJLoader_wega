@@ -31,7 +31,7 @@ function onClickBtn() {
         btnText.textContent = "Go 3D";
          
         // Switch the SVG icon to 3D view
-        svgIcon.setAttribute("data", "3DCanvas.svg");
+        svgIcon.setAttribute("data", "assets/3DCanvas.svg");
     } else {
         // Switch to 3D
         canvas2D.style.display = "none";
@@ -41,7 +41,7 @@ function onClickBtn() {
         btnText.textContent = "Go 2D";
          
         // Switch the SVG icon to 2D view
-        svgIcon.setAttribute("data", "2DCanvas.svg");
+        svgIcon.setAttribute("data", "assets/2DCanvas.svg");
  
         initScene3D();
     }
